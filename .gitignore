@@ -1,0 +1,7 @@
+.pio
+include/secret_stuff.h
+lib/README
+include/README
+.vscode
+platformio.ini
+test/README
