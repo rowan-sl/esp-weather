@@ -11,6 +11,7 @@
 
 // TODO: check if this actualy works
 //! GOD DANGIT C++/ARDUINO IS HORRIBLE!!!!!
+//^ this is wrong
 
 const int led = LED_BUILTIN;
 const char* PARAM_INPUT_1 = "input1";
